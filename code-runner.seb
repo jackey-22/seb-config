@@ -1759,7 +1759,7 @@
     <key>sebServicePolicy</key>
     <integer>2</integer>
     <key>sendBrowserExamKey</key>
-    <false />
+    <true />
     <key>setVmwareConfiguration</key>
     <false />
     <key>showApplicationLogButton</key>
@@ -1771,7 +1771,7 @@
     <key>showReloadButton</key>
     <true />
     <key>showReloadWarning</key>
-    <true />
+    <false />
     <key>showSideMenu</key>
     <false />
     <key>showTaskBar</key>
