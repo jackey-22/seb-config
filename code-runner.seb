@@ -1781,7 +1781,7 @@
     <key>startResource</key>
     <string />
     <key>startURL</key>
-    <string>https://code-runner-frontend.onrender.com/student/available-task</string>
+    <string>https://code-runner-frontend.onrender.com/seb-login</string>
     <key>startURLAppendQueryParameter</key>
     <true />
     <key>systemAlwaysOn</key>
